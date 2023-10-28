@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @MeesterPeegvig
-- That's all.
+- Hi, I’m @MeesterPeegvig
+- I like making things :D
 
