@@ -1,3 +1,3 @@
-- Hi, I’m @MeesterPeegvig
+- Hi, I’m @Peegvig
 - I like making things :D
 
